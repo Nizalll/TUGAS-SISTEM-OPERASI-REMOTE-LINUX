@@ -12,6 +12,8 @@ Langkah-langkah
 1.Install linux server dan desktop
 
 2.buka linux server dan ubah network menjadi bridge adapter
+![alt text](https://github.com/Nizalll/TUGAS-SISTEM-OPERASI-REMOTE-LINUX/blob/images/Screenshot%202024-10-30%20213709.png?raw=true)
+
 
 3.jalankan perintah berikut sudo apt update,sudo apt install openssh-server
 
