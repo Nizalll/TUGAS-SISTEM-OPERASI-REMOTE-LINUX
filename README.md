@@ -32,6 +32,7 @@ Langkah-langkah
 
 
 6.lalu buka ubuntu dekstop, atur network dengan bridge adapter
+
 ![alt text](https://github.com/Nizalll/TUGAS-SISTEM-OPERASI-REMOTE-LINUX/blob/images/Screenshot%202024-10-30%20214128.png?raw=true)
 
 
