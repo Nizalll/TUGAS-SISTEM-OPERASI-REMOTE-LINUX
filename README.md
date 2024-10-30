@@ -16,6 +16,10 @@ Langkah-langkah
 
 
 3.jalankan perintah berikut sudo apt update,sudo apt install openssh-server
+![alt text](https://github.com/Nizalll/TUGAS-SISTEM-OPERASI-REMOTE-LINUX/blob/images/Screenshot%202024-10-30%20211411.png?raw=true)
+![alt text](https://github.com/Nizalll/TUGAS-SISTEM-OPERASI-REMOTE-LINUX/blob/images/Screenshot%202024-10-30%20211445.png?raw=true)
+
+
 
 4.aktifkan ssh, sudo systemctl start ssh
 
