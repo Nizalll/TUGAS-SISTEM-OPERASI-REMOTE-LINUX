@@ -27,15 +27,15 @@ Langkah-langkah
 ![alt text](https://github.com/Nizalll/TUGAS-SISTEM-OPERASI-REMOTE-LINUX/blob/images/Screenshot%202024-10-30%20213942.png?raw=true)
 
 
-6. cek ip dengan, ifconfig
-   ![alt text](https://github.com/Nizalll/TUGAS-SISTEM-OPERASI-REMOTE-LINUX/blob/images/Screenshot%202024-10-30%20214026.png?raw=true)
+5.cek ip dengan,ifconfig
+![alt text](https://github.com/Nizalll/TUGAS-SISTEM-OPERASI-REMOTE-LINUX/blob/images/Screenshot%202024-10-30%20214026.png?raw=true)
 
 
-7.lalu buka ubuntu dekstop, atur network dengan bridge adapter
+6.lalu buka ubuntu dekstop, atur network dengan bridge adapter
 ![alt text](https://github.com/Nizalll/TUGAS-SISTEM-OPERASI-REMOTE-LINUX/blob/images/Screenshot%202024-10-30%20214128.png?raw=true)
 
 
-8.buka terminal dan ketik perintah ssh username@IP_server
+7.buka terminal dan ketik perintah ssh username@IP_server
 ![alt text](https://github.com/Nizalll/TUGAS-SISTEM-OPERASI-REMOTE-LINUX/blob/images/Screenshot%202024-10-30%20214236.png?raw=true)
 
 setelah terhubung kita bisa menjalankan perintah untuk linux server dari linux dekstop 
