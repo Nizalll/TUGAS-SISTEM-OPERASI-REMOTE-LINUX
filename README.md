@@ -1,4 +1,4 @@
-# TUGAS-SISTEM-OPERASI-REMOTE-LINUX 
+# TUGAS LAPORAN PRAKTIKUM SISTEM OPERASI-REMOTE LINUX UBUNTU SERVER MENGGUNAKAN LINUX UBUNTU DEKSTOP 
 Nama: Nazif Nizal
 NIM: 09011282328070
 Kelas: SK3A
@@ -21,15 +21,27 @@ Langkah-langkah
 
 
 
-4.aktifkan ssh, sudo systemctl start ssh
+4.aktifkan ssh dengan, sudo systemctl start ssh dan periksa status SSH server untuk memastikan bahwa layanan aktif dengan sudo systemctl status ssh
+![alt text](https://github.com/Nizalll/TUGAS-SISTEM-OPERASI-REMOTE-LINUX/blob/images/Screenshot%202024-10-30%20213942.png?raw=true)
 
-5.periksa status SSH server untuk memastikan bahwa layanan aktif dengan sudo systemctl status ssh
 
 6. cek ip dengan, ifconfig
+   ![alt text](https://github.com/Nizalll/TUGAS-SISTEM-OPERASI-REMOTE-LINUX/blob/images/Screenshot%202024-10-30%20214026.png?raw=true)
+
 
 7.lalu buka ubuntu dekstop, atur network dengan bridge adapter
+![alt text](https://github.com/Nizalll/TUGAS-SISTEM-OPERASI-REMOTE-LINUX/blob/images/Screenshot%202024-10-30%20214128.png?raw=true)
+
 
 8.buka terminal dan ketik perintah ssh username@IP_server
+![alt text](https://github.com/Nizalll/TUGAS-SISTEM-OPERASI-REMOTE-LINUX/blob/images/Screenshot%202024-10-30%20214236.png?raw=true)
+
+setelah terhubung kita bisa menjalankan perintah untuk linux server dari linux dekstop 
+![alt text](https://github.com/Nizalll/TUGAS-SISTEM-OPERASI-REMOTE-LINUX/blob/images/Screenshot%202024-10-30%20214315.png?raw=true)
+
+di atas adalah contoh perintah tentang menggunakan phyton dan memeriksa status ssh di linux server
+
+
 
 
 
