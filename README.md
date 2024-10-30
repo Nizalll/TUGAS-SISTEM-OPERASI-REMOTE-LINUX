@@ -3,9 +3,8 @@ Nama: Nazif Nizal
 NIM: 09011282328070
 Kelas: SK3A
 
-Bahan-bahan=*Linux ubuntu server 
-
-            *Linux ubuntu dekstop
+Bahan-bahan=/*Linux ubuntu server 
+            /*Linux ubuntu dekstop
           
 
 Langkah-langkah
